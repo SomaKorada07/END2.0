@@ -46,10 +46,10 @@ After applying above techniques we get a combined DataFrame that has the followi
 
 ## Training Logs
 
-![](./Images/TrainingLogs.jpg)
+![](./Images/TrainingLogs.JPG)
 
 
 
 ## Validations
 
-![](./Images/Validations.jpg)
+![](./Images/Validations.JPG)
